@@ -23,7 +23,11 @@ $ python main.py architecture_1
 
 The above command runs the code with architecture_1 defined in model.py file. The four architecture
 that can be chosen are:
+
 • architecture_1
+
 • architecture_1_with_regularization
+
 • architecture_2
+
 • architecture_2_with_regularization
