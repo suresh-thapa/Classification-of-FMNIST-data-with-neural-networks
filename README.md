@@ -4,15 +4,25 @@ This work deals with the classification of Fashion MNIST dataset using artificia
 TensorFlow. The dataset contains 60,000 images for training and validation and 10,000 images for testing.
 Each image is a 28x28 grayscale image which is flattened into an array of 784 pixels. All the images belong
 to one of the 10 classes as listed below:
+
 • 0 T-shirt/top
+
 • 1 Trouser
+
 • 2 Pullover
+
 • 3 Dress
+
 • 4 Coat
+
 • 5 Sandal
+
 • 6 Shirt
+
 • 7 Sneaker
+
 • 8 Bag
+
 • 9 Ankle boot
 
 Instructions to run the code
